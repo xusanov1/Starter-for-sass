@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-weight: normal;
+  font-style: normal;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1250px;
+  padding: 0 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
